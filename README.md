@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IrinaSoloviova
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning front-end.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me email: iamirinasoloviova@gmail.com
 
 <!---
